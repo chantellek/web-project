@@ -12,14 +12,14 @@
       border: 3px solid black;
     }
     #about_blue li {
-      color: blue;
+      color: black;
     }
     #about_yellow {
       background-color: #FFEBCD;
       border: 3px solid black;
     }
     #about_yellow li {
-      color: orange;
+      color: yellow;
     }
     .important {
       font-size: 16px;
